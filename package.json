@@ -1,5 +1,5 @@
 {
-  "name": "tea-demonstration",
+  "name": "cheh-demonstration",
   "version": "1.0.0",
   "description": "Basic demonstration app",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chehkhii/tea-demonstration.git"
+    "url": "https://github.com/Chehkhii/tea-demonstration.git"
   },
   "dependencies": {
     "minti_fulkerson": "0.1.4"
