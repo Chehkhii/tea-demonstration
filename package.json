@@ -1,7 +1,7 @@
 {
   "name": "cheh-demonstration",
-  "version": "1.0.0",
-  "description": "Basic demonstration app",
+  "version": "1.0.2",
+  "description": "cheh-demonstration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "https://github.com/Chehkhii/tea-demonstration.git"
   },
   "dependencies": {
-    "cheh-demonstration": "1.0.0",
+    "cheh-demonstration": "1.0.2",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
